@@ -17,6 +17,7 @@
 */
 import UserProfile from "views/UserProfile.jsx";
 import TableList from "views/TableList.jsx";
+import Login from "views/Login.jsx";
 
 const dashboardRoutes = [
   {
